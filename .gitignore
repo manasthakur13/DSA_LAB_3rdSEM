@@ -1,0 +1,15 @@
+# Ignore all exe files (Windows executables)
+*.exe
+
+# (Optional) Ignore build folders
+/build/
+/Debug/
+/Release/
+
+# (Optional) Ignore temporary/editor files
+*.obj
+*.o
+*.log
+*.tmp
+*.bak
+*.vscode/
